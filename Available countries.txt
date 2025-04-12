@@ -1,0 +1,8 @@
+Available countries:
+ ['australia' 'austria' 'belgium' 'britain' 'bulgaria' 'canada' 'chile'
+ 'colombia' 'croatia' 'cyprus' 'czech republic' 'denmark' 'ecuador'
+ 'estonia' 'finland' 'france' 'germany' 'greece' 'guatemala' 'hungary'
+ 'iceland' 'iran' 'israel' 'italy' 'latvia' 'lithuania' 'luxembourg'
+ 'malta' 'mexico' 'montenegro' 'netherlands' 'new zealand' 'norway' 'peru'
+ 'poland' 'portugal' 'romania' 'slovakia' 'slovenia' 'south africa'
+ 'south korea' 'spain' 'sweden' 'switzerland' 'tunisia' 'united states']
